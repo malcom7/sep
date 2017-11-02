@@ -17,9 +17,6 @@ class Test {
        
         echo 'distant3';
 		echo 'distant3';
-      
-
-
     }
 
 	public function __construct2()
