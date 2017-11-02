@@ -46,12 +46,13 @@ class Test {
         echo "malick10" ;
     }
 
-    function test3(){
-        echo "malick3" ;
-        echo "malick3" ;
+    function test3()
+    {
+        echo "malick3";
+        echo "malick3";
 
 
-
+    }
 
 
 }
