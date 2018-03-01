@@ -73,7 +73,6 @@
                                 &nbsp;
                                 <a href="editer_news.php?id=<?php echo $id ?>">Editer</a></i></td>
                     </tr>
-
                     <?php
                 } ?>
             </tbody>
